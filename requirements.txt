@@ -1,0 +1,6 @@
+Python3 - Python3.7 or above
+PyQt5 - Python GUI
+PyTorch (torch, torchvision)
+PIL (Pillow)
+NumPy
+matplotlib
